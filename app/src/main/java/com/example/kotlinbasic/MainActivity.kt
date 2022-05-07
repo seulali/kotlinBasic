@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 //            이 {} 안 코드만, 버튼 눌렸을 때 실행됩니다.
 
             Log.d("메인화면로그","클릭용 버튼이 눌림")
+            Log.e("메인화면로그","에러 관련 로그")
         }
 
    }
